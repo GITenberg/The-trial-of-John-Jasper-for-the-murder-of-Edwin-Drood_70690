@@ -1,0 +1,38 @@
+_repo: The-trial-of-John-Jasper-for-the-murder-of-Edwin-Drood_70690
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Ley, J. W. T.
+    gutenberg_agent_id: '55866'
+    url: http://www.gutenberg.org/2009/agents/55866
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_issued: '2023-05-03'
+identifiers:
+  gutenberg: '70690'
+language: en
+pgterms:marc904: https://archive.org/details/trialofjohnjaspe00jasprich/page/n9/mode/2up
+pgterms:marc905: 20210103081336chesterton
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bChapman & Hall, Ltd., $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The trial of John Jasper for the murder of Edwin Drood
+url: http://www.gutenberg.org/ebooks/70690
