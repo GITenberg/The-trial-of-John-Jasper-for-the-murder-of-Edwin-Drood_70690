@@ -5,6 +5,9 @@ contributor:
     agent_name: Ley, J. W. T.
     gutenberg_agent_id: '55866'
     url: http://www.gutenberg.org/2009/agents/55866
+covers:
+- cover_type: archival
+  image_path: 70690-h/images/cover.jpg
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70690#The-trial-of-John-Jasper-for-the-murder-of-Edwin-Drood
 gutenberg_issued: '2023-05-03'
 identifiers:
   gutenberg: '70690'
